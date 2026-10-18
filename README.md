@@ -1,4 +1,4 @@
-# 💫 Sobre mim
+#  Sobre mim
 
 Sou Engenheiro de Controle e Automação pela UFOP, voltado e se especializando, em Engenharia de Dados.
 
